@@ -1,0 +1,62 @@
+{
+  "MS2_001": {
+    "earned": true,
+    "earned_time": 1747787218
+  },
+  "MS2_002": {
+    "earned": true,
+    "earned_time": 1747787527
+  },
+  "MS2_003": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_004": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_005": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_006": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_007": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_008": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_009": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_010": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_011": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_012": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_013": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_014": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MS2_016": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
