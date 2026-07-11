@@ -1,0 +1,178 @@
+{
+  "ACH_ALL_ACCESSORIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_ACHIEVED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_CATS_RESCUED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_FAIRY_ABILITIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_FAIRY_ABILITIES_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_FAIRY_TRAINING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_NOTES_COLLECTED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_WEAPONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_WEAPONS_ONCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BARRELS_BROKEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAT_ADOPTED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAIN_ACHIEVED": {
+    "earned": true,
+    "earned_time": 1783695304
+  },
+  "ACH_ENDING_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENDING_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENDING_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_BOMB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_BOOMERANG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_BOW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_HAMMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_KUSARI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_SPEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENEMIES_KILLED_SWORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EVENT_SCENE_1": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_EVENT_SCENE_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EVENT_SCENE_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EVENT_SCENE_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EVENT_SCENE_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EVENT_SCENE_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FAIRY_KILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GRASS_CUT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HERO_TRIAL_CLEARED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HP_MAXED_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HP_MAXED_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAGIC_STONE_CREATED": {
+    "earned": true,
+    "earned_time": 1783694186
+  },
+  "ACH_MAX_MAGIC_STONE_RANK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_POTIONS_DRUNK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_QUEST_CLEARED_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_QUEST_CLEARED_15": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_QUEST_CLEARED_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RARE_5_MAGIC_STONE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_REVIVAL_REQUESTED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPECIFIC_ENEMY_KILLED_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPECIFIC_ENEMY_KILLED_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TOTAL_MONEY": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
